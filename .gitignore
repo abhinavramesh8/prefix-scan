@@ -1,0 +1,7 @@
+.DS_Store
+bin/prefix_scan
+*.py
+temp*.txt
+*stats.txt
+*.pdf
+.settings
